@@ -1,4 +1,4 @@
-# Deliverable 1 Schedule
+# Deliverable 1 Tentative Schedule
 
 - [1/30](#1-30)
   * [First Meeting](#first-meeting)
