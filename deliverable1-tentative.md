@@ -1,22 +1,22 @@
 # Deliverable 1 Schedule
 
-- [[#1/30|1/30]]
-	- [[#First Meeting|First Meeting]]
-- [[#1/31-2/3|1/31-2/3]]
-	- [[#Project Proposal [Person 1: 1-2] [Person 2: 3-4]|Project Proposal [Person 1: 1-2] [Person 2: 3-4]]]
-	- [[#Analysis: User Analysis [Person 3]|Analysis: User Analysis [Person 3]]]
-	- [[#Tasks: Task scenarios [Person 1] [Person 4]|Tasks: Task scenarios [Person 1] [Person 4]]]
-	- [[#Tasks: Tasks (formal descriptions) [Person 5]|Tasks: Tasks (formal descriptions) [Person 5]]]
-- [[#2/6|2/6]]
-- [[#2/7|2/7]]
-	- [[#Project Proposal [Person 1: 1-2] [Person 2: 3-4]|Project Proposal [Person 1: 1-2] [Person 2: 3-4]]]
-	- [[#Analysis: User Analysis [Person 3]|Analysis: User Analysis [Person 3]]]
-	- [[#Tasks: Task scenarios [Person 1] [Person 4]|Tasks: Task scenarios [Person 1] [Person 4]]]
-	- [[#Tasks: Tasks (formal descriptions) [Person 5]|Tasks: Tasks (formal descriptions) [Person 5]]]
-- [[#2/7-2/9|2/7-2/9]]
-- [[#2/10|2/10]]
-- [[#2/14|2/14]]
-	- [[#Deliverable 1 is due|Deliverable 1 is due]]
+- [1/30](#1-30)
+  * [First Meeting](#first-meeting)
+- [1/31-2/3](#1-31-2-3)
+  * [Project Proposal [Person 1: 1-2] [Person 2: 3-4]](#project-proposal--person-1--1-2---person-2--3-4-)
+  * [Analysis: User Analysis [Person 3]](#analysis--user-analysis--person-3-)
+  * [Tasks: Task scenarios [Person 1] [Person 4]](#tasks--task-scenarios--person-1---person-4-)
+  * [Tasks: Tasks (formal descriptions) [Person 5]](#tasks--tasks--formal-descriptions---person-5-)
+- [2/6](#2-6)
+- [2/7](#2-7)
+  * [Project Proposal [Person 1: 1-2] [Person 2: 3-4]](#project-proposal--person-1--1-2---person-2--3-4--1)
+  * [Analysis: User Analysis [Person 3]](#analysis--user-analysis--person-3--1)
+  * [Tasks: Task scenarios [Person 1] [Person 4]](#tasks--task-scenarios--person-1---person-4--1)
+  * [Tasks: Tasks (formal descriptions) [Person 5]](#tasks--tasks--formal-descriptions---person-5--1)
+- [2/7-2/9](#2-7-2-9)
+- [2/10](#2-10)
+- [2/14](#2-14)
+  * [Deliverable 1 is due](#deliverable-1-is-due)
 
 
 ## 1/30
