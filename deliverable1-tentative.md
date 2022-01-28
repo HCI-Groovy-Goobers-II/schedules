@@ -27,6 +27,7 @@
 - Explore who wants to do what; define roles
 - Go around and listen to everyone's ideas for solutions we could design
 - Decide on ONE idea so we can begin working
+- Get everyone on Github (or Bitbucket if we'd rather do that)
 ------------------------------------------------------
 
 ## 1/31-2/3
