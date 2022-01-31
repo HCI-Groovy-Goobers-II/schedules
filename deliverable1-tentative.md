@@ -6,7 +6,7 @@ but the work should be divided up fairly well.
 - [1/30](#1-30)
   * [First Meeting](#first-meeting)
 - [1/31-2/3](#1-31-2-3)
-  * [Project Proposal [Ashley 1: 1-2] [Ryan 2: 3-4]](#project-proposal--ashley-1--1-2---ryan-2--3-4-)
+  * [Project Proposal [Ashley: 1-2] [Ryan: 3-4]](#project-proposal--ashley-1--1-2---ryan-2--3-4-)
   * [Analysis: User Analysis [Josh]](#analysis--user-analysis--josh-)
   * [Tasks: Task scenarios [Ashley] [Brandon]](#tasks--task-scenarios--ashley---brandon-)
   * [Tasks: Tasks (formal descriptions) [Amber]](#tasks--tasks--formal-descriptions---amber-)
@@ -37,7 +37,7 @@ but the work should be divided up fairly well.
 
 Let's try to get a start on the project no later than Thursday, 2/3.
 
-### Project Proposal [Ashley 1: 1-2] [Ryan 2: 3-4]
+### Project Proposal [Ashley: 1-2] [Ryan: 3-4]
 
 Start on the following steps of the project proposal:
 1) The problem we chose
@@ -55,9 +55,7 @@ Define at least 3 primary users and make graphic personas for each.
 
 ### Tasks: Task scenarios [Ashley] [Brandon]
 
-The spec says to write 1 para. task scenario for each of the 5+ tasks identified but in the second step we have to describe 6 tasks. Makes
-
-more sense to me to write about 6 task scenarios so they pair 1:1 with the second part.
+The spec says to write 1 para. task scenario for each of the 5+ tasks identified but in the second step we have to describe 6 tasks. Makes more sense to me to write about 6 task scenarios so they pair 1:1 with the second part.
 
 - Person 1, Person 4 begin on writing the task scenarios.
 
