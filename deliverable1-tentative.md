@@ -116,4 +116,4 @@ Thursday, 2/10: Let's see if we're all cool turning our stuff in assuming its in
 
 ### Deliverable 1 is due
 
-Fuck it. We already done.
+We already done.
