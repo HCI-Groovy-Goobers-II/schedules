@@ -9,7 +9,7 @@
 
 ## 02/21-02/24
 
-Let's try to get a start on the storyboards no later than Thursday, 20/24.
+Let's try to get a start on the storyboards no later than Thursday, 02/24.
 
 ### Storyboards [Amber] [Person 2]
 
