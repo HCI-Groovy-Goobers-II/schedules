@@ -30,7 +30,7 @@ Start on these. Remember we will have at least 4 of these: the home page and 3 o
 
 ## 03/06
 
-### Wireframes [Person 3] [Ashley]
+### Wireframes [Josh] [Ashley]
 
 Aim to have wireframes completed so that we can write the basic structure.
 
