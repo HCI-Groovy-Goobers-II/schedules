@@ -25,6 +25,11 @@ You can refer to the example matrix at the end of this file. It is also listed i
 
 ### Findings section [Brandon]
 
+Findings section - include at least TWO:
+  - screenshots from testing results
+  - diagrams and charts from testing session results
+  - mockups and examples
+
 ### Retrospective
 
 Amber will be working on this. Make sure you get your personal statement in. I did not see a length requirement so maybe try 1-2 paragraphs and some bullet points?
