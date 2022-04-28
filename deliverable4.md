@@ -1,11 +1,5 @@
 # Deliverable 4 Schedule
 
-## Wednesday, 4/20
-
-### Get blazed
-
-It's 4/20. Go get blazed. Try some Swedish fish once it hits. They taste *really* good.
-
 ## Thursday, 4/21
 
 ### Testing Plan [Ryan]
